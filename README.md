@@ -2,6 +2,8 @@
 
 A small breakout board for the MCP79410 I2C RTCC/EEPROM and UID chip from Microchip.
 
+![MCP79410](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/aecf26e62adc8ed7e62a96d918672d97.png) ![Bottom](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/65a8e8134772b609e3b54966704671fd.png)
+
 You can [order this board](https://oshpark.com/shared_projects/WmGSs4wK) ready made
 from oshpark.com. It's 1" x 1" so it will cost $5 for 3.
 
